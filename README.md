@@ -1,5 +1,8 @@
 # Pre-work - *tip_calculator*
 
+![tip_calculator](https://user-images.githubusercontent.com/68806999/141735067-f0b4c601-a426-4872-8971-6e535b108d7c.gif)
+
+
 **tip_calculator** is a tip calculator application for iOS.
 
 Submitted by: **Jonah Tjandra**
